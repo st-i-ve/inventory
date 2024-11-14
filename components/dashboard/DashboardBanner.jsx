@@ -14,7 +14,7 @@ export default function DashboardBanner() {
     >
       {/* icon  */}
       <div className="col-span-1">
-        <CreditCard className="w-16 h-16 text-slate-500" />
+        <CreditCard className="w-16 h-16 text-slate-600" />
       </div>
       <div className="col-span-6">
         <h2 className="font-bold text-xl">Start accepting online payments</h2>
