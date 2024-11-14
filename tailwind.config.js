@@ -13,11 +13,5 @@ module.exports = {
       },
     },
   },
-  purge: [
-    "./src/**/*.html",
-    "./src/**/*.js",
-    "./src/**/*.jsx",
-    "./public/**/*.html",
-  ],
   plugins: [require("@tailwindcss/forms")],
 };
